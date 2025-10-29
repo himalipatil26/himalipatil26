@@ -37,25 +37,6 @@
 
 ---
 
-## 🌟 Featured Science Projects
-
-<p align="center">
-  <a href="https://github.com/himalipatil26/physics-lab-simulator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=himalipatil26&repo=physics-lab-simulator&theme=tokyonight&bg_color=0D1117&title_color=00D8A7&icon_color=00D8A7&hide_border=true" />
-  </a>
-  <a href="https://github.com/himalipatil26/chemistry-equation-balancer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=himalipatil26&repo=chemistry-equation-balancer&theme=tokyonight&bg_color=0D1117&title_color=00D8A7&icon_color=00D8A7&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/himalipatil26/science-data-visualization">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=himalipatil26&repo=science-data-visualization&theme=tokyonight&bg_color=0D1117&title_color=00D8A7&icon_color=00D8A7&hide_border=true" />
-  </a>
-</p>
-
----
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00D8A7&center=true&vCenter=true&width=600&lines=🔭+Exploring+Science+Through+Technology;⚗️+Curiosity+is+My+Catalyst;📊+Learning+By+Experimentation" />
 </p>
@@ -105,10 +86,6 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=himalipatil26&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himalipatil26&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D8A7" />
-</p>
-
 ---
 
 ### 🧭 Environment & Focus Areas
@@ -149,6 +126,3 @@
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-green?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="80%">
-</p>
