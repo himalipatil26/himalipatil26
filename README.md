@@ -61,20 +61,24 @@
 ### 🧰 Tools, Languages & Frameworks
 
 <p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,html,markdown" />
-  <br/>
- 
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=jupyter,anaconda,git,github,vscode,notion" />
-  <br/>
- 
-  <!-- Data Science & Visualization -->
-  <img src="https://skillicons.dev/icons?i=pandas" />
+
+  <!-- ⚗️ Scientific & Analytical Languages -->
+  <img src="https://skillicons.dev/icons?i=python,r,matlab,julia,fortran" />
   <br/>
 
-  <!-- Creativity & Documentation -->
-  <img src="https://skillicons.dev/icons?i=figma,canva,latex" />
+  <!-- 🧬 Scientific Computing Environments -->
+  <img src="https://skillicons.dev/icons?i=anaconda,vscode,git,github" />
+  <br/>
+
+  <!-- 📈 Data Science, Machine Learning & Visualization -->
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+  <br/>
+
+  <!-- 🔭 Research, Simulation & Experimentation -->
+  <img src="https://skillicons.dev/icons?i=latex,markdown,sqlite,postgres,mysql" />
+  <br/>
+
+  🌠 <i>Focused on Computational Science, Data-Driven Research & Scientific Visualization.</i>
 </p>
 
 ---
