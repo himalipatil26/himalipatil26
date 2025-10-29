@@ -1,19 +1,4 @@
-## Hi there 👋
 
-<!--
-**himalipatil26/himalipatil26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <!-- =================================== -->
 <!--  HIMALI PATIL | SCIENCE PROFILE README -->
 <!-- =================================== -->
@@ -55,17 +40,17 @@ Here are some ideas to get you started:
 ## 🌟 Featured Science Projects
 
 <p align="center">
-  <a href="https://github.com/himalipatil03/physics-lab-simulator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=himalipatil03&repo=physics-lab-simulator&theme=tokyonight&bg_color=0D1117&title_color=00D8A7&icon_color=00D8A7&hide_border=true" />
+  <a href="https://github.com/himalipatil26/physics-lab-simulator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=himalipatil26&repo=physics-lab-simulator&theme=tokyonight&bg_color=0D1117&title_color=00D8A7&icon_color=00D8A7&hide_border=true" />
   </a>
-  <a href="https://github.com/himalipatil03/chemistry-equation-balancer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=himalipatil03&repo=chemistry-equation-balancer&theme=tokyonight&bg_color=0D1117&title_color=00D8A7&icon_color=00D8A7&hide_border=true" />
+  <a href="https://github.com/himalipatil26/chemistry-equation-balancer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=himalipatil26&repo=chemistry-equation-balancer&theme=tokyonight&bg_color=0D1117&title_color=00D8A7&icon_color=00D8A7&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/himalipatil03/science-data-visualization">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=himalipatil03&repo=science-data-visualization&theme=tokyonight&bg_color=0D1117&title_color=00D8A7&icon_color=00D8A7&hide_border=true" />
+  <a href="https://github.com/himalipatil26/science-data-visualization">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=himalipatil26&repo=science-data-visualization&theme=tokyonight&bg_color=0D1117&title_color=00D8A7&icon_color=00D8A7&hide_border=true" />
   </a>
 </p>
 
@@ -96,7 +81,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,markdown" />
+  <img src="https://skillicons.dev/icons?i=python,html,markdown" />
   <br/>
  
   <!-- Tools -->
@@ -104,7 +89,7 @@ Here are some ideas to get you started:
   <br/>
  
   <!-- Data Science & Visualization -->
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib" />
+  <img src="https://skillicons.dev/icons?i=pandas" />
   <br/>
 
   <!-- Creativity & Documentation -->
@@ -116,12 +101,12 @@ Here are some ideas to get you started:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=himalipatil03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D8A7&icon_color=00D8A7" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=himalipatil03&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=himalipatil26&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D8A7&icon_color=00D8A7" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=himalipatil26&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himalipatil03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D8A7" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himalipatil26&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D8A7" />
 </p>
 
 ---
@@ -141,13 +126,13 @@ Here are some ideas to get you started:
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/himalipatil25">
+  <a href="https://www.linkedin.com/in/himalipatil26">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:himalipatil.science@gmail.com">
+  <a href="mailto:techmantrapatil@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://himalipatil03.github.io/science-portfolio/">
+  <a href="https://himalipatil26.github.io/science-portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=githubpages&logoColor=white" />
   </a>
 </p>
