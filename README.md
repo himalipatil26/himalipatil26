@@ -1,4 +1,3 @@
-
 <!-- =================================== -->
 <!--  HIMALI PATIL | SCIENCE PROFILE README -->
 <!-- =================================== -->
@@ -6,7 +5,7 @@
 <h1 align="center">👋 Hi, I'm <b>Himali Patil</b></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&pause=1000&color=00D8A7&center=true&vCenter=true&width=600&lines=Science+Student;Physics+%7C+Chemistry+%7C+Biology+%7C+Maths;Research+and+Innovation+Learner;Curiosity+Drives+Discovery;STEM+Enthusiast+%7C+Future+Scientist" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&pause=1000&color=00D8A7&center=true&vCenter=true&width=600&lines=Science+Student;Physics+%7C+Chemistry+%7C+Biology+%7C+Maths;Cybersecurity+Learner;Research+and+Innovation+Explorer;STEM+Enthusiast+%7C+Future+Scientist" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -18,17 +17,19 @@
 ### 🔬 About Me
 
 > I’m a dedicated **Science Student** passionate about exploring the fascinating world of **Physics, Chemistry, Biology, and Mathematics**.  
+> I’m also learning the fundamentals of **Cybersecurity**—network security, digital safety, and ethical practices.  
 > My curiosity lies in understanding how **technology enhances scientific research and learning**.  
-> I love analyzing data, creating science-based projects, and continuously learning new tools for **STEM education and innovation**.  
+> I love analyzing data, creating science-based projects, and continuously learning new tools for **STEM education, cybersecurity, and innovation**.  
 > Outside academics, I enjoy **reading research papers**, **creating digital notes**, and **designing science infographics**.  
 
 ---
 
 ### 🧠 Current Focus
-- ⚛️ Strengthening my fundamentals in **Physics** and **Chemistry**  
+- ⚛️ Strengthening fundamentals in **Physics** and **Chemistry**  
 - 🔢 Applying **Mathematics and Data Science** for scientific analysis  
 - 🧬 Exploring **Biology with Technology** (Bioinformatics basics)  
-- 🧪 Developing **Science Learning Projects** using Python and visualization tools  
+- 🛡️ Learning **Cybersecurity Fundamentals**  
+- 🧪 Developing **Science Learning Projects** using Python & visualizations  
 
 ---
 
@@ -38,12 +39,12 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00D8A7&center=true&vCenter=true&width=600&lines=🔭+Exploring+Science+Through+Technology;⚗️+Curiosity+is+My+Catalyst;📊+Learning+By+Experimentation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00D8A7&center=true&vCenter=true&width=600&lines=🔭+Exploring+Science+Through+Technology;🛡️+Cybersecurity+Beginner;⚗️+Curiosity+is+My+Catalyst;📊+Learning+By+Experimentation" />
 </p>
 
 ---
 
-### 🧪 Science & Technology Skills
+### 🧪 Science, Cybersecurity & Technology Skills
 
 <p align="center">
  
@@ -52,6 +53,13 @@
   <img src="https://img.shields.io/badge/Chemistry-FF6F61?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Biology-4CAF50?style=for-the-badge&logo=leaflet&logoColor=white" />
   <img src="https://img.shields.io/badge/Mathematics-FFD700?style=for-the-badge&logo=pi-hole&logoColor=black" />
+
+  <!-- Cybersecurity -->
+  <img src="https://img.shields.io/badge/Cybersecurity-0A84FF?style=for-the-badge&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-008080?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethical%20Learning-333333?style=for-the-badge&logo=shield&logoColor=white" />
+
+  <!-- Research/Data -->
   <img src="https://img.shields.io/badge/Research-00BFFF?style=for-the-badge&logo=googlescholar&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Analysis-00CED1?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
@@ -66,8 +74,9 @@
   <img src="https://skillicons.dev/icons?i=python,r,matlab,julia,fortran" />
   <br/>
 
-  <!-- 🧬 Scientific Computing Environments -->
-  <img src="https://skillicons.dev/icons?i=anaconda,vscode,git,github" />
+  <!-- 🧬 Scientific Computing & Cybersecurity -->
+  <img src="https://skillicons.dev/icons?i=anaconda,vscode,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=kali" />
   <br/>
 
   <!-- 📈 Data Science, Machine Learning & Visualization -->
@@ -78,7 +87,7 @@
   <img src="https://skillicons.dev/icons?i=latex,markdown,sqlite,postgres,mysql" />
   <br/>
 
-  🌠 <i>Focused on Computational Science, Data-Driven Research & Scientific Visualization.</i>
+  🌠 <i>Focused on Computational Science, Cybersecurity Basics, Data-Driven Research & Scientific Visualization.</i>
 </p>
 
 ---
@@ -98,8 +107,9 @@
   <img src="https://img.shields.io/badge/Field-Science%20%26%20Research-blue?style=for-the-badge&logo=atom&logoColor=white" />
   <img src="https://img.shields.io/badge/OS-Windows%20%7C%20Linux-yellow?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Language-Python-green?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Subject-Physics%2C%20Chemistry%2C%20Bio%2C%20Math-FFB6C1?style=for-the-badge&logo=graduation-cap&logoColor=black" />
+  <img src="https://img.shields.io/badge/Subject-Physics%2C%20Chem%2C%20Bio%2C%20Math-FFB6C1?style=for-the-badge&logo=graduation-cap&logoColor=black" />
   <img src="https://img.shields.io/badge/Interest-AI%20in%20Science-orange?style=for-the-badge&logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Interest-Cybersecurity-blueviolet?style=for-the-badge&logo=shield&logoColor=white" />
 </p>
 
 ---
@@ -126,7 +136,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Learning-STEM%20Concepts-00D8A7?style=for-the-badge&logo=atom&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Beginner-0A84FF?style=for-the-badge&logo=security&logoColor=white" />
   <img src="https://img.shields.io/badge/Driven%20By-Curiosity-yellow?style=for-the-badge&logo=lightbulb&logoColor=black" />
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-green?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-
